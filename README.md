@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* App Structure
 
-Things you may want to cover:
+- mostly all work we will be doing will be under the javascript/pack folder (creating the frontend using react)
 
-* Ruby version
+* Getting Started
 
-* System dependencies
+just run: foreman start -f Procfile.dev -p 3000
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
