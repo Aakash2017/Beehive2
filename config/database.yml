@@ -2,8 +2,8 @@ development:
     adapter: postgresql
     database: beehive2_development
     host: localhost
-    username: beehive2
-    password: 
+    username: postgres
+    password: gobears
     pool: 5
     timeout: 5000
 
@@ -11,7 +11,7 @@ test:
     adapter: postgresql
     database: beehive2_test
     host: localhost
-    username: beehive2
-    password: 
+    username: postgres
+    password: gobears
     pool: 5
     timeout: 5000
